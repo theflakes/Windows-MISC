@@ -4,7 +4,7 @@ using System;
 using System.Management;
 using System.Diagnostics;
 
-namespace watchdog
+namespace procwatch
 {
     class Program
     {
