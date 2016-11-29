@@ -1,3 +1,5 @@
+// Register WMI watch events for proc start/stop and print proc ID, name, and command line used.
+
 using System;
 using System.Management;
 using System.Diagnostics;
